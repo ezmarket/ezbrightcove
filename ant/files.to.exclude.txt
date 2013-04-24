@@ -1,0 +1,5 @@
+BUILD
+ant/
+.git/
+.gitignore
+doc/eztags-user-manual.docx
